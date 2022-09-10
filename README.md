@@ -1,5 +1,5 @@
 # journey-dev-ninja
-O objetivo dewsse repositório é criar uma aplicação com backend e fronted para fins de explorar e aprimorar os conhecimentos de seus colaboradores nas principais tecnologias existentes no mercado.
+O objetivo desse repositório é criar uma aplicação com backend e fronted para fins de explorar e aprimorar os conhecimentos de seus colaboradores nas principais tecnologias existentes no mercado.
 
 # Tecnologias utilizadas:
 
