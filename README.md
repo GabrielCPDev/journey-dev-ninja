@@ -26,3 +26,8 @@ O objetivo dewsse repositório é criar uma aplicação com backend e fronted pa
  - Programação funcional
  - OOP
  - Programação assíncrona
+
+# Próximos passos
+
+- Definir escopo da aplicação.
+- Criar esboço de ORM no Drawio
