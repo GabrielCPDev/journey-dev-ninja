@@ -31,3 +31,6 @@ O objetivo desse repositório é criar uma aplicação com backend e fronted par
 
 - Definir escopo da aplicação.
 - Criar esboço de ORM no Drawio
+
+# UML e análise de requisitos do MVP
+<img src="./images/mvp_svg.svg" alt="alt text" title="modelo uml"/>
